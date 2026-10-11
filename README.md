@@ -73,3 +73,11 @@ The agent returns one of four decisions:
 ## Disclaimer
 
 GuardianMesh Policy Explainer is a prototype decision-support agent. It does not replace authorization controls, database permissions, security reviews, or production-grade policy enforcement.
+
+
+## Links
+
+- Smartly Agent:https://infra.smartlylabs.ai/agents/cmv3d5zwx000p04l8mwj20ft6/chat
+- GitHub Repository: https://github.com/pavani-n-hash/guardianmesh-policy-explainer
+- Telegram Demo: Connected through Smartly Infra
+- https://web.telegram.org/a/#8678422095
