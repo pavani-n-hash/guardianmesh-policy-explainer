@@ -1,7 +1,7 @@
 # GuardianMesh Policy Explainer
 
 An AI-agent security evaluator deployed through Smartly Infra and connected to Telegram.
-
+ 
 ## Problem
 
 AI agents can interact with databases, APIs, and external services. Without safety checks, an agent may accidentally execute destructive database queries, expose personally identifiable information (PII), request excessive permissions, or perform high-impact actions without human approval.
