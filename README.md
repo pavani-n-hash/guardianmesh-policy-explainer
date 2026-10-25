@@ -12,14 +12,14 @@ GuardianMesh Policy Explainer evaluates a proposed action before execution and p
 
 Evaluate AI-agent actions before execution and identify risks such as destructive database operations, PII exposure, excessive permissions, suspicious requests, and high-impact actions.
 
-The agent returns one of four decisions:
+The agent returns one of four decisions: 
 
 - `ALLOW`
 - `BLOCK`
 - `REQUIRE_HUMAN_APPROVAL`
 - `NEEDS_CLARIFICATION`
 
-## Safety Rules
+## Safety Rules 
 
 - Block `DROP` and `TRUNCATE` database operations.
 - Block `DELETE` operations that do not contain a validated, narrow `WHERE` condition.
