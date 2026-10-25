@@ -72,7 +72,7 @@ The agent returns one of four decisions:
 
 ## Disclaimer
 
-GuardianMesh Policy Explainer is a prototype decision-support agent. It does not replace authorization controls, database permissions, security reviews, or production-grade policy enforcement.
+GuardianMesh Policy Explainer is a prototype decision-support agent. It does not replace authorization controls, database permissions, security reviews, or production-grade policy enforcement. 
 
 
 ## Links
