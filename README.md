@@ -1,4 +1,4 @@
-# GuardianMesh Policy Explainer
+# GuardianMesh Policy Explainer 
 
 An AI-agent security evaluator deployed through Smartly Infra and connected to Telegram.
  
